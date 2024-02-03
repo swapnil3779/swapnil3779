@@ -14,7 +14,7 @@
 - <b>Accenture North America Data Analytics and Visualization Job Simulation on Forage</b>
   - [Hands-on experience in Data analytics and visualisation](https://i.imgur.com/nwe3Ju1.png)
 
-- <b>Microsoft Professional Certificate in Generative AI</b>
+- <b>Career Essentials in Generative AI by Microsoft and LinkedIn</b>
   - [Knowledge in Generative AI](https://media.licdn.com/dms/image/D4E22AQHx91X_ak-Rwg/feedshare-shrink_1280/0/1705433569596?e=1709769600&v=beta&t=uTOFdvhpy9kjNt7lP7F05fzsRVL1mHpjck3G85R0yS4)
 
 
