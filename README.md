@@ -1,4 +1,4 @@
-<h1>Hi, I'm Swapnil! <br/><a href="https://github.com/swapnil3779">Data Analyst/Scientist</a>, <a href="https://www.linkedin.com/in/swapnil7779/">Data Professional</a> </h1>
+<h1>Hi, I'm Swapnil! 
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
