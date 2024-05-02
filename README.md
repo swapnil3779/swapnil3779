@@ -15,9 +15,10 @@
   - [Hands-on experience in Data analytics and visualisation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_niRDcHydQ5JdToC2e_1706293457416_completion_certificate.pdf)
 
 - <b>Career Essentials in Generative AI by Microsoft and LinkedIn</b>
-  - [Knowledge in Generative AI](https://media.licdn.com/dms/image/D4E22AQHx91X_ak-Rwg/feedshare-shrink_1280/0/1705433569596?e=1709769600&v=beta&t=uTOFdvhpy9kjNt7lP7F05fzsRVL1mHpjck3G85R0yS4)
+  - [Knowledge in Generative AI](https://media.licdn.com/dms/image/D4E22AQHx91X_ak-Rwg/feedshare-shrink_1280/0/1705433569596?e=1717632000&v=beta&t=0xHOt7X2I0Yj52L8BtM9BebaJCOqWw9Hk1fzRHSgdVo)
 
-
+- <b>Quantium Data Analytics Job Simulation on Forage (R programming)</b>
+  - [Data analystics in R](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Quantium/NkaC7knWtjSbi6aYv_Quantium_niRDcHydQ5JdToC2e_1707820594436_completion_certificate.pdf)
 <!--
 **swapnil3779/swapnil3779** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
