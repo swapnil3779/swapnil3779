@@ -15,7 +15,7 @@
   - [Hands-on experience in Data analytics and visualisation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_niRDcHydQ5JdToC2e_1706293457416_completion_certificate.pdf)
 
 - <b>Career Essentials in Generative AI by Microsoft and LinkedIn</b>
-  - [Knowledge in Generative AI](https://media.licdn.com/dms/image/D4E22AQHx91X_ak-Rwg/feedshare-shrink_1280/0/1705433569596?e=1717632000&v=beta&t=0xHOt7X2I0Yj52L8BtM9BebaJCOqWw9Hk1fzRHSgdVo)
+  - [Knowledge in Generative AI](https://www.linkedin.com/learning/certificates/0c97b1c49fb689d0ed227de42dc3778517051e94c1be5d8c82d74d3873b3211f?trk=share_certificate)
 
 - <b>Quantium Data Analytics Job Simulation on Forage (R programming)</b>
   - [Data analystics in R](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Quantium/NkaC7knWtjSbi6aYv_Quantium_niRDcHydQ5JdToC2e_1707820594436_completion_certificate.pdf)
